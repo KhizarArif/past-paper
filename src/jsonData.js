@@ -1,11 +1,11 @@
 export const QuizData = [
     {
-      "Quest": "A student claimed the diameter of a wire as $1.032cm$ on using Vernier Calipers Up-to what extent do you agree with it:",
-      "Op1": "$1cm",
-      "Op2": "$10cm",
-      "Op3": "$1.03cm",
-      "Op4": "$1.032cm",
-      "UQuest": "ایک طالبعلم نے سکریو گیج سے کسی تار کا ڈایا میٹر $1.032cm$ معلوم کیا۔ آپ اس سے کس حد تک متفق ہیں:",
+      "Quest": "A student claimed the diameter of a wire as 1.032cm on using Vernier Calipers Up-to what extent do you agree with it:",
+      "Op1": "1cm",
+      "Op2": "10cm",
+      "Op3": "1.03cm",
+      "Op4": "1.032cm",
+      "UQuest": "ایک طالبعلم نے سکریو گیج سے کسی تار کا ڈایا میٹر 1.032cm معلوم کیا۔ آپ اس سے کس حد تک متفق ہیں:",
       "Year": 9,
       "Subject": "Physics",
       "BISE": "LHR2024",
@@ -28,12 +28,12 @@ export const QuizData = [
       "Type": "MCQ"
     },
     {
-      "Quest": "A string is stretched by two equal and opposite forces of $10N$ each, the tension in the string is:",
-      "Op1": "$5N$",
-      "Op2": "$20N$",
-      "Op3": "$10N$",
-      "Op4": "$0$",
-      "UQuest": "ایک ڈوری کو دو مخالف فورسز کی مدد سے کھینچا جارہا ہے ہر ایک فورس کی مقدار $10N$ہے۔ ڈوری میں ٹینشن کتنا ہوگا:",
+      "Quest": "A string is stretched by two equal and opposite forces of 10N each, the tension in the string is:",
+      "Op1": "5N",
+      "Op2": "20N",
+      "Op3": "10N",
+      "Op4": "0",
+      "UQuest": "ایک ڈوری کو دو مخالف فورسز کی مدد سے کھینچا جارہا ہے ہر ایک فورس کی مقدار 10Nہے۔ ڈوری میں ٹینشن کتنا ہوگا:",
      
       "Year": 9,
       "Subject": "Physics",
@@ -41,12 +41,12 @@ export const QuizData = [
       "Type": "MCQ"
     },
     {
-      "Quest": "A force of $10N$ is making an angle of $30^{\\circ}$ with horizontal, its horizontal component will be\u003Cbr\u003E",
-      "Op1": "$7N$",
-      "Op2": "$8.7N$",
-      "Op3": "$4N$",
-      "Op4": "$5N$",
-      "UQuest": "$10N$ کی ایک فورس $x-axis$ کے ساتھ $30^{\\circ}$ کا زاویہ بناتی ہے۔ اس فورس کا افقی کمپونینٹ ہو گا:",
+      "Quest": "A force of 10N is making an angle of 30^{\\circ} with horizontal, its horizontal component will be\u003Cbr\u003E",
+      "Op1": "7N",
+      "Op2": "8.7N",
+      "Op3": "4N",
+      "Op4": "5N",
+      "UQuest": "10N کی ایک فورس x-axis کے ساتھ 30^{\\circ} کا زاویہ بناتی ہے۔ اس فورس کا افقی کمپونینٹ ہو گا:",
       
       "Year": 9,
       "Subject": "Physics",
@@ -55,10 +55,10 @@ export const QuizData = [
     },
     {
       "Quest": "Global positioning system (GPS) consists of earth satelite:",
-      "Op1": "$23$",
-      "Op2": "$24$",
-      "Op3": "$25$",
-      "Op4": "$26$",
+      "Op1": "23",
+      "Op2": "24",
+      "Op3": "25",
+      "Op4": "26",
       "UQuest": "گلوبل پوزیشننگ سسٹم (GPS) کل زمینی سیٹلائٹس پر مشتمل ہوتاہے:",
       
       "Year": 9,
@@ -83,12 +83,12 @@ export const QuizData = [
       "Type": "MCQ"
     },
     {
-      "Quest": "In Einstein's mass-energy equation \"$C$\" is the:",
+      "Quest": "In Einstein's mass-energy equation \"C\" is the:",
       "Op1": "Speed of electron",
       "Op2": "Speed of earth",
       "Op3": "Speed of sound",
       "Op4": "Speed of light",
-      "UQuest": "آئن سٹائن کی ماس انرجی مساوات میں '$C$' ظاہر کرتا ہے:",
+      "UQuest": "آئن سٹائن کی ماس انرجی مساوات میں 'C' ظاہر کرتا ہے:",
       "UOp1": "الیکڑون کی سپیڈ",
       "UOp2": "زمین کی سپیڈ",
       "UOp3": "آواز کی سپیڈ",
@@ -100,22 +100,22 @@ export const QuizData = [
     },
     {
       "Quest": "SI unit of pressure is Pascal which is equal to:",
-      "Op1": "$1\\times10^{1}Nm^{-2}$",
-      "Op2": "$1\\times10^{2}Nm^{-2}$",
-      "Op3": "$1\\times10^{0}Nm^{-2}$",
-      "Op4": "$1\\times10^{3}Nm^{-2}$",
+      "Op1": "1 × 10¹ Nm⁻²",
+      "Op2": "1 × 10² Nm⁻²",
+      "Op3": "1 × 10⁰ Nm⁻²",
+      "Op4": "1 × 10³ Nm⁻²",
       "UQuest": "سسٹم انٹرنیشنل میں پریشر کا یونٹ پاسکل ہے اور ایک پاسکل برابر ہوتا ہے:",
       "Year": 9,
       "Subject": "Physics",
       "BISE": "LHR2024",
       "Type": "MCQ"
-    },
+    },    
     {
-      "Quest": "Heat capacity of $5 kg$ of water will be:",
-      "Op1": "$21000JK^{-1}$",
-      "Op2": "$22000JK^{-1}$",
-      "Op3": "$23000JK^{-1}$",
-      "Op4": "$24000JK^{-1}$",
+      "Quest": "Heat capacity of 5 kg of water will be:",
+      "Op1": "21000 JK⁻¹",
+      "Op2": "22000 JK⁻¹",
+      "Op3": "23000 JK⁻¹",
+      "Op4": "24000 JK⁻¹",
       "UQuest": "5 کلوگرام پانی کی حرارتی گنجائش ہوگی:",
       "Year": 9,
       "Subject": "Physics",
@@ -123,17 +123,17 @@ export const QuizData = [
       "Type": "MCQ"
     },
     {
-      "Quest": "Actual value of latent heat of vaporization of one kg water at $100 ^{\\circ}C$ is:",
-      "Op1": "$3.26\\times10^6 JKg^{-1}$",
-      "Op2": "$2.26\\times10^6 JKg^{-1}$",
-      "Op3": "$4.26\\times10^6 JKg^{-1}$",
-      "Op4": "$5.26\\times10^6 JKg^{-1}$",
-      "UQuest": "$100 ^{\\circ}C$ ٹمپریچر پر ایک کلو گرام پانی ویپورائزیشن کی مخفی حرارت کی حقیقی قیمت ہوتی ہے:",
+      "Quest": "Actual value of latent heat of vaporization of one kg water at 100 °C is:",
+      "Op1": "3.26 × 10⁶ JKg⁻¹",
+      "Op2": "2.26 × 10⁶ JKg⁻¹",
+      "Op3": "4.26 × 10⁶ JKg⁻¹",
+      "Op4": "5.26 × 10⁶ JKg⁻¹",
+      "UQuest": "100 °C ٹمپریچر پر ایک کلو گرام پانی ویپورائزیشن کی مخفی حرارت کی حقیقی قیمت ہوتی ہے:",
       "Year": 9,
       "Subject": "Physics",
       "BISE": "LHR2024",
       "Type": "MCQ"
-    },
+    },    
     {
       "Quest": "Which of the following materials has large value of temperature co-efficient of linear expansion:",
       "Op1": "Steel",
@@ -151,15 +151,16 @@ export const QuizData = [
       "Type": "MCQ"
     },
     {
-      "Quest": "$50Kmh^{-1}$ will be equal to:",
-      "Op1": "$13.88ms^{-1}$",
-      "Op2": "$14.88ms^{-1}$",
-      "Op3": "$15.88ms^{-1}$",
-      "Op4": "$16.88ms^{-1}$",
-      "UQuest": "$50Kmh^{-1}$ برابر ہوگا:",
+      "Quest": "50 km/h will be equal to:",
+      "Op1": "13.88 m/s",
+      "Op2": "14.88 m/s",
+      "Op3": "15.88 m/s",
+      "Op4": "16.88 m/s",
+      "UQuest": "50 km/h برابر ہوگا:",
       "Year": 9,
       "Subject": "Physics",
       "BISE": "LHR2024",
       "Type": "MCQ"
     }
+    
   ]
